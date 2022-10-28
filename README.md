@@ -35,8 +35,9 @@ Additional alternatives that help block multiple users
 - Block Together https://blocktogether.org/ (Retired 2021)
 - Twitter list importing (rip)
   
-## Additional Twitter Tools. 
+## Additional Twitter Tools 
 Bookmark: https://linktr.ee/twittertracking. 
   
   
 _Have a suggestion for tools to add? Contact me on Twitter at [@murphtracks](https://twitter.com/murphtracks)_ 
+
