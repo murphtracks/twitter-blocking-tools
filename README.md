@@ -7,7 +7,7 @@ Red Block is free browser extension that can block imported lists or followers o
 ▪️ https://github.com/gaeulbyul/RedBlock/blob/main/README.en.md  
       
 ## App: BlockDezNat
-Free, has a bunch of pre-listed DezNat account on a block list.
+Free, has a bunch of pre-listed DezNat accounts on a block list.
 First sign up on the main site:  
 ▪️ https://blockdnat.org/  
 Then subscribe to this list:  
