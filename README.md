@@ -3,24 +3,24 @@ _A short list of tools for improving the Twitter experience_
 
 ## Tool Suite: Tweet Beaver
 Use Tweet Beaver to pull friend and follower lists to use in conjunction with blocking tools.  
-❇️ https://tweetbeaver.com/
+▪️ https://tweetbeaver.com/
    
 ## Extension: Red Block
 Redblock is free browser extension that can block imported lists or followers of an account but it can only block 500 at a time (effective for daily use); I have not tested the other API functions mentioned in link below.  
 **Notice: blocking too many accts in a 15 min interval will cause you to be automatically logged out.**  
-❇️ https://github.com/gaeulbyul/RedBlock/blob/main/README.en.md  
+▪️ https://github.com/gaeulbyul/RedBlock/blob/main/README.en.md  
       
 ## App: BlockDezNat
 Free, has a bunch of pre-listed DezNat account on a block list.
 First sign up on the main site:  
-❇️ https://blockdnat.org/  
+▪️ https://blockdnat.org/  
 Then subscribe to this list:  
-❇️ https://blockdnat.org/show-blocks/YZQnYLTxNnhXjlR4fTORiVck3aLPwPfw-PpDvohb  
+▪️ https://blockdnat.org/show-blocks/YZQnYLTxNnhXjlR4fTORiVck3aLPwPfw-PpDvohb  
     
 ## App: Block Party 
 Block Party is good for really massive lists, schedule batches of 5k accounts to block at a time. You can schedule multiple batches to run and it auto blocks them for you **BUT requires a cc for free trial, costs after the trial.**  
 Also requires MFA via number or authentication app.  
-❇️ https://www.blockpartyapp.com/  
+▪️ https://www.blockpartyapp.com/  
       
 ## Alternatives
 Additional alternatives that help block multiple users  
