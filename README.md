@@ -35,7 +35,7 @@ Additional alternatives that help block multiple users
 Use Tweet Beaver to pull friend and follower lists to use in conjunction with blocking tools.  
 ▪️ https://tweetbeaver.com/
 
-## Additional Twitter Tools 
+## Additional Twitter Things
 ▪️ https://linktr.ee/twittertracking 
   
   
