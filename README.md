@@ -1,7 +1,7 @@
 # Twitter Blocking Tools
 _A short list of tools for improving the Twitter experience_
 
-## Tweet Beaver | Home of Really Useful Twitter Tools
+## Tool Suite: Tweet Beaver
 Use Tweet Beaver to pull friend and follower lists for accounts to use in conjunction with blocking tools:  
 https://tweetbeaver.com/
 
