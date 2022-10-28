@@ -2,11 +2,11 @@
 _A short list of tools for improving the Twitter experience_
 
 ## Tool Suite: Tweet Beaver
-Use Tweet Beaver to pull friend and follower lists for accounts to use in conjunction with blocking tools:  
+Use Tweet Beaver to pull friend and follower lists to use in conjunction with blocking tools.  
 https://tweetbeaver.com/
 
 ## Extension: Red Block
-Redblock is free browser extension that can block lists or followers of an account but it can only block 500 at a time (effective for daily use); I have not tested the other API functions mentioned in link below.  
+Redblock is free browser extension that can block imported lists or followers of an account but it can only block 500 at a time (effective for daily use); I have not tested the other API functions mentioned in link below.  
 **Notice: blocking too many accts in a 15 min interval will cause you to be automatically logged out.**  
 https://github.com/gaeulbyul/RedBlock/blob/main/README.en.md  
     
