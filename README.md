@@ -17,6 +17,8 @@ First sign up on the main site:
 Then subscribe to this list:  
 ❇️ https://blockdnat.org/show-blocks/YZQnYLTxNnhXjlR4fTORiVck3aLPwPfw-PpDvohb  
   
+####
+####
 ## App: Block Party 
 Block Party is good, schedule batches of 5k at a time, you can schedule multiple batches to run and it auto blocks them for you **BUT requires a cc for free trial, costs after the trial.**  
 Also requires MFA via number or authentication app.  
