@@ -6,7 +6,7 @@ Use Tweet Beaver to pull friend and follower lists to use in conjunction with bl
 ▪️ https://tweetbeaver.com/
    
 ## Extension: Red Block
-Redblock is free browser extension that can block imported lists or followers of an account but it can only block 500 at a time (effective for daily use); I have not tested the other API functions mentioned in link below.  
+Redblock is free browser extension that can block imported lists or followers of a specific account (limited to blocking 500 accounts at a time, effective for daily use).
 **Notice: blocking too many accts in a 15 min interval will cause you to be automatically logged out.**  
 ▪️ https://github.com/gaeulbyul/RedBlock/blob/main/README.en.md  
       
