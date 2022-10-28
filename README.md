@@ -6,8 +6,8 @@ Use Tweet Beaver to pull friend and follower lists for accounts to use in conjun
 https://tweetbeaver.com/
 
 ### Extension: RedBlock
-Redblock is free browser extension that can block lists or followers of an account but it can only block 500 at a time (effective for daily use, inefficient for huge block lists); I have not tested the other API functions mentioned in link below.  
-**Notice: blocking too many accts in a 15 min interval may cause you to be automatically logged out.**  
+Redblock is free browser extension that can block lists or followers of an account but it can only block 500 at a time (effective for daily use); I have not tested the other API functions mentioned in link below.  
+**Notice: blocking too many accts in a 15 min interval will cause you to be automatically logged out.**  
 https://github.com/gaeulbyul/RedBlock/blob/main/README.en.md  
     
 ### App: BlockDezNat
@@ -32,8 +32,10 @@ Additional alternatives that help block multiple users
 ## Defunct
 - Secataur - https://secateur.app/ (Tested, not working 27-Oct-2022)  
 - MegaBlock - https://megablock.xyz/ (Tested, not working 27-Oct-2022)  
-- Block Together https://blocktogether.org/
+- Block Together https://blocktogether.org/ (Retired 2021)
 
 ## Additional Twitter tools compiled by [@murphtracks](https://twitter.com/murphtracks)
 Bookmark: https://linktr.ee/twittertracking
-link
+
+
+_Have a suggestion for tools to add? Contact me on Twitter at [@murphtracks](https://twitter.com/murphtracks)_ 
