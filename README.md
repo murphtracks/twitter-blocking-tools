@@ -14,7 +14,7 @@ Then subscribe to this list:
 ▪️ https://blockdnat.org/show-blocks/YZQnYLTxNnhXjlR4fTORiVck3aLPwPfw-PpDvohb  
     
 ## App: Block Party 
-Block Party is good for really massive lists, schedule batches of 5k accounts to block at a time. You can schedule multiple batches to run and it auto blocks them for you **BUT requires a cc for free trial, costs after the trial.**  
+Block Party is good for really massive lists, schedule batches of 5k accounts to block at a time. You can schedule multiple batches to run and it auto blocks them for you **BUT requires a cc for free trial, costs after 30 days if not cancelled.**  
 Also requires MFA via number or authentication app.  
 ▪️ https://www.blockpartyapp.com/  
       
