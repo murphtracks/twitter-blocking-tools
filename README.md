@@ -36,7 +36,7 @@ Additional alternatives that help block multiple users
 - Twitter list importing (rip)
   
 ## Additional Twitter Tools 
-Bookmark: https://linktr.ee/twittertracking. 
+▪️ https://linktr.ee/twittertracking. 
   
   
 _Have a suggestion for tools to add? Contact me on Twitter at [@murphtracks](https://twitter.com/murphtracks)_ 
