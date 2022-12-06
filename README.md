@@ -22,7 +22,7 @@ After authorizing the app subscribe to this list:
 ▪️ https://www.theblockbot.com/show-blocks/OLntUGaCZE_4mevqfUrMvBsriyyBdhaFoFrvjiG4   
 
 ## App: Block Party 
-Block Party is good for really massive lists, schedule batches of 5k accounts to block at a time. You can schedule multiple batches to run and it auto blocks them for you **BUT requires a cc for free trial, costs after 30 days if not cancelled.**  
+Block Party is good for really massive lists, schedule batches of 5k accounts to block at a time. You can schedule multiple batches to run and it auto blocks them for you **BUT requires a cc for free trial, costs after 30 days if not cancelled.** (I really like using this one to go beyond the limits of the other apps.)
 Also requires MFA via number or authentication app.  
 ▪️ https://www.blockpartyapp.com/  
       
