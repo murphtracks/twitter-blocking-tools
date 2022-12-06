@@ -4,7 +4,7 @@ _A short list of tools for improving the Twitter experience_
 ## App: Secateur
 Use Secateur if you want to temporarily or permanently block a Twitter account and all its followers.    
 Free to use, the app can block all the followers of accounts with less than 50k followers.  
-▪️ https://secateur.app/. 
+▪️ https://secateur.app/ 
    
 ## Extension: Red Block
 Red Block is free browser extension that can block imported lists or followers of a specific account (limited to blocking smaller batches of 500 accounts at a time).  
