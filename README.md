@@ -12,14 +12,14 @@ Red Block is free browser extension that can block imported lists or followers o
 ▪️ https://github.com/gaeulbyul/RedBlock/blob/main/README.en.md  
       
 ## Block List: BlockDezNat
-Free, has a bunch of pre-listed DezNat accounts on a block list, hosted by (@BlockDNat)[https://twitter.com/BlockDNat].
+Free, has a bunch of pre-listed DezNat accounts on a block list, hosted by [@BlockDNat](https://twitter.com/BlockDNat).
 First sign up on the main site:  
 ▪️ https://blockdnat.org/  
 Then subscribe to this list:  
 ▪️ https://blockdnat.org/show-blocks/YZQnYLTxNnhXjlR4fTORiVck3aLPwPfw-PpDvohb  
 
 ## Block list: 500+ big companies on Twitter
-Free to use. Block list of 500+ big companies on Twitter, list by (@shannoncoulter)[https://twitter.com/shannoncoulter/status/1587402205447028736] hosted by (@theblockbot)[https://twitter.com/TheBlockBot]
+Free to use. Block list of 500+ big companies on Twitter, list by [@shannoncoulter](https://twitter.com/shannoncoulter/status/1587402205447028736) hosted by [@theblockbot](https://twitter.com/TheBlockBot)
 First sign up on the main site:  
 ▪️ https://www.theblockbot.com/
 Then subscribe to this list: 
