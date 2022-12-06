@@ -38,7 +38,6 @@ Additional alternatives that help block multiple users
 - Poop blocker - https://poop-blocker.glitch.me/ (not tested)  
 
 ## Defunct
-- Secataur - https://secateur.app/ (Tested, not working 27-Oct-2022)  
 - MegaBlock - https://megablock.xyz/ (Tested, not working 27-Oct-2022)  
 - Block Together https://blocktogether.org/ (Retired 2021)
 - Twitter list importing (rip)
