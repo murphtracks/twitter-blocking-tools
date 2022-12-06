@@ -7,7 +7,7 @@ Free to use, the app can block all the followers of accounts with less than 50k 
 ▪️ https://secateur.app/. 
    
 ## Extension: Red Block
-Red Block is free browser extension that can block imported lists or followers of a specific account (limited to blocking batches of 500 accounts at a time).  
+Red Block is free browser extension that can block imported lists or followers of a specific account (limited to blocking smaller batches of 500 accounts at a time).  
 **Notice: blocking too many accts in a 15 min interval will cause you to be automatically logged out of Twitter.**  
 ▪️ https://github.com/gaeulbyul/RedBlock/blob/main/README.en.md  
       
