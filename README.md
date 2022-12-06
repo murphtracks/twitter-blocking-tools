@@ -21,7 +21,7 @@ Then subscribe to this list:
 ## Block list: 500+ big companies on Twitter
 Free to use. Block list of 500+ big companies on Twitter, list by [@shannoncoulter](https://twitter.com/shannoncoulter/status/1587402205447028736), hosted by [@theblockbot](https://twitter.com/TheBlockBot).  
 First sign up on the main site:  
-▪️ https://www.theblockbot.com/. 
+▪️ https://www.theblockbot.com/   
 Then subscribe to this list:   
 ▪️ https://www.theblockbot.com/show-blocks/OLntUGaCZE_4mevqfUrMvBsriyyBdhaFoFrvjiG4. 
 
