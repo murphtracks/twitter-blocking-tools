@@ -12,18 +12,14 @@ Red Block is free browser extension that can block imported lists or followers o
 ▪️ https://github.com/gaeulbyul/RedBlock/blob/main/README.en.md  
       
 ## Block List: BlockDezNat  
-Free, has a bunch of pre-listed DezNat accounts on a block list, hosted by [@BlockDNat](https://twitter.com/BlockDNat).  
-First sign up on the main site:   
-▪️ https://blockdnat.org/   
-Then subscribe to this list:   
+Free, has a bunch of pre-listed DezNat accounts on a block list, hosted by [@BlockDNat](https://twitter.com/BlockDNat).    
+After authorizing the app subscribe to this list:   
 ▪️ https://blockdnat.org/show-blocks/YZQnYLTxNnhXjlR4fTORiVck3aLPwPfw-PpDvohb  
 
 ## Block list: 500+ big companies on Twitter
 Free to use. Block list of 500+ big companies on Twitter, list by [@shannoncoulter](https://twitter.com/shannoncoulter/status/1587402205447028736), hosted by [@theblockbot](https://twitter.com/TheBlockBot).  
-First sign up on the main site:  
-▪️ https://www.theblockbot.com/   
-Then subscribe to this list:   
-▪️ https://www.theblockbot.com/show-blocks/OLntUGaCZE_4mevqfUrMvBsriyyBdhaFoFrvjiG4. 
+After authorizing the app subscribe to this list:    
+▪️ https://www.theblockbot.com/show-blocks/OLntUGaCZE_4mevqfUrMvBsriyyBdhaFoFrvjiG4   
 
 ## App: Block Party 
 Block Party is good for really massive lists, schedule batches of 5k accounts to block at a time. You can schedule multiple batches to run and it auto blocks them for you **BUT requires a cc for free trial, costs after 30 days if not cancelled.**  
