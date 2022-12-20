@@ -25,6 +25,16 @@ After authorizing the app subscribe to this list:
 Block Party is good for really massive lists, schedule batches of 5k accounts to block at a time. You can schedule multiple batches to run and it auto blocks them for you **BUT requires a cc for free trial, costs after 30 days if not cancelled.** (I really like using this one to go beyond the limits of the other apps.)
 Also requires MFA via number or authentication app.  
 ▪️ https://www.blockpartyapp.com/  
+
+## Tool Suite: Tweet Beaver
+Use Tweet Beaver to pull friend and follower lists to use in conjunction with blocking tools.  
+▪️ https://tweetbeaver.com/
+
+## Extension: Instant Data Scraper (Chrome)  
+Instant Data Scraper is really useful for pulling all the likes off of a tweet to make a block list. Recommended for use with Block Pary App.
+▪️ https://chrome.google.com/webstore/detail/instant-data-scraper/ofaokhiedipichpaobibbnahnkdoiiah?hl=en-US
+
+------------
       
 ## Alternatives
 Additional alternatives that help block multiple users  
@@ -38,9 +48,6 @@ Additional alternatives that help block multiple users
 - Block Together https://blocktogether.org/ (Retired 2021)
 - Twitter list importing (rip)
   
-## Tool Suite: Tweet Beaver
-Use Tweet Beaver to pull friend and follower lists to use in conjunction with blocking tools.  
-▪️ https://tweetbeaver.com/
 
 ## Additional Twitter Things
 ▪️ https://linktr.ee/twittertracking 
